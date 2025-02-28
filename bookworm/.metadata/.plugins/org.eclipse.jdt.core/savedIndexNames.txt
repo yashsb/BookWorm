@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\AAA\bookworm\bookworm\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+3546582108.index
+1865797976.index
